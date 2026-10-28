@@ -1,0 +1,8 @@
+# Ambiente virtual e caches
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Banco SQLite gerado localmente (é recriado a cada execução)
+dados/
+*.db
